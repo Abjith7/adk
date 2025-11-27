@@ -1,0 +1,1 @@
+we are creating structured output agents , we can get them to generate structured outputs like email, letter..etc
